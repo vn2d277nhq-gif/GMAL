@@ -1,0 +1,9 @@
+{
+  "name": "GMAL",
+  "symbol": "GMAL",
+  "description": "GMAL is a meme token on Binance Smart Chain (BEP-20).",
+  "image": "https://raw.githubusercontent.com/vn2d277nhq-gif/GMAL/refs/heads/main/9C01E638-F336-4D6D-B485-31239A1B382B.png",
+  "website": "https://example.com",
+  "chainId": 56,
+  "decimals": 18
+}
