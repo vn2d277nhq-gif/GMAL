@@ -1,0 +1,11 @@
+{
+  "name": "GMAL Token",
+  "symbol": "GMAL",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "GMAL is a BEP20 token deployed on BNB Smart Chain.",
+  "website": "https://example.com",
+  "explorer": "https://bscscan.com/token/0x266d4cab38ab4599c2617d2b23ceaa8d6464c2b1",
+  "status": "active",
+  "id": "0x266d4cab38ab4599c2617d2b23ceaa8d6464c2b1"
+}
